@@ -160,7 +160,7 @@ footer{
                 font-size: 70%;
                 font-family: 'Courier New', Courier, monospace;
                 display:grid;
-                width:100%;
+                width:114%;
                 word-wrap: break-word;
                 overflow-wrap: break-word;
                 
@@ -173,20 +173,20 @@ footer{
                 color:rgb(27, 29, 29);
                 background-color: rgb(179, 223, 226);
                 font-family: 'Courier New', Courier, monospace;
-                width:100%;
+                width:119%;
                 
         }
 
         .fish img{
-                width:100%;
+                width:117%;
         }
 
         .ant img{
-                width:123%;
+                width:117%;
         }
 
         .mango img{
-                width:123%;
+                width:117%;
         }
 
         li{
@@ -218,7 +218,7 @@ footer{
                 font-size: 70%;
                 font-family: 'Courier New', Courier, monospace;
                 display:grid;
-                width:99.8%;
+                width:97%;
                 word-wrap: break-word;
                 overflow-wrap: break-word;
                 
@@ -236,15 +236,15 @@ footer{
         }
 
         .fish img{
-                width:123%;
+                width:101%;
         }
 
         .ant img{
-                width:123%;
+                width:101%;
         }
 
         .mango img{
-                width:123%;
+                width:101%;
         }
 
         li{

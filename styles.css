@@ -160,7 +160,7 @@ footer{
                 font-size: 70%;
                 font-family: 'Courier New', Courier, monospace;
                 display:grid;
-                width:103%;
+                width:100%;
                 word-wrap: break-word;
                 overflow-wrap: break-word;
                 
@@ -173,12 +173,12 @@ footer{
                 color:rgb(27, 29, 29);
                 background-color: rgb(179, 223, 226);
                 font-family: 'Courier New', Courier, monospace;
-                width:108%;
+                width:100%;
                 
         }
 
         .fish img{
-                width:123%;
+                width:100%;
         }
 
         .ant img{
@@ -203,7 +203,7 @@ footer{
                 background-color: beige;
                 position: relative;
                 size-adjust:inherit;
-                width:108%
+                width:100%
         }
 }
 
